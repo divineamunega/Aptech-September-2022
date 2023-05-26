@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+<<<<<<< HEAD
 int arr[] = new int[4];
 arr[0]  = 1;
 arr[1] = 2;
@@ -16,5 +17,8 @@ for(int i = 1; i < arr.length; i++){
     num[i] = arr[i] + num[i - 1];
 }
         System.out.println(Arrays.toString(num));
+=======
+    // Hello I'm fredrick
+>>>>>>> aa0747c3d9babecd9a0ba0830c22fae54e061af9
     }
 }
